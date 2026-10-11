@@ -1,1 +1,247 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- Primary SEO Page Title & Meta Description -->
+    <title>BEST FOODS | Import-Export Agroalimentaire, Épices & Denrées Dakar Sénégal</title>
+    <meta 
+      name="description" 
+      content="BEST FOODS Dakar (Sénégal) : Leader du négoce et import-export de denrées agroalimentaires, épices pures, poivre noir, piment sec, clou de girofle, sucre & café. Cotation rapide CIF / FOB." 
+    />
+    <meta 
+      name="keywords" 
+      content="BEST FOODS, import export Dakar, négoce agroalimentaire Sénégal, épices brutes Dakar, poivre noir export Sénégal, piment sec Dakar, clous de girofle gros, sucre ICUMSA 45 Sénégal, légumineuses Afrique de l'Ouest, café robusta brut, port autonome de Dakar PAD, grossiste épices Dakar, négoce international denrées" 
+    />
+    <meta name="author" content="BEST FOODS SARL" />
+    <meta name="publisher" content="BEST FOODS SARL" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow" />
+    <link rel="canonical" href="https://bestfoods.sn/" />
+    <link rel="alternate" hreflang="fr" href="https://bestfoods.sn/?lang=fr" />
+    <link rel="alternate" hreflang="en" href="https://bestfoods.sn/?lang=en" />
+    <link rel="alternate" hreflang="x-default" href="https://bestfoods.sn/" />
+
+    <!-- Favicon & Brand Icons -->
+    <link rel="icon" type="image/png" href="/bf.png" />
+    <link rel="apple-touch-icon" href="/logo_bestfood_bf.png" />
+
+    <!-- Geo Tags for Dakar / Senegal Local Search Relevance -->
+    <meta name="geo.region" content="SN-DK" />
+    <meta name="geo.placename" content="Hann Maristes, Dakar, Sénégal" />
+    <meta name="geo.position" content="14.7335;-17.4367" />
+    <meta name="ICBM" content="14.7335, -17.4367" />
+
+    <!-- OpenGraph Social Cards (Facebook, LinkedIn, WhatsApp) -->
+    <meta property="og:type" content="business.business" />
+    <meta property="og:title" content="BEST FOODS | Import-Export Agroalimentaire & Épices Dakar Sénégal" />
+    <meta property="og:description" content="Leader agroalimentaire à Dakar : approvisionnement, conditionnement et export de 13 denrées d'excellence et épices pures depuis le Port de Dakar." />
+    <meta property="og:site_name" content="BEST FOODS" />
+    <meta property="og:url" content="https://bestfoods.sn/" />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:image" content="/logo_bestfood_bf.png" />
+    <meta property="og:image:alt" content="BEST FOODS - Logo officiel et denrées agroalimentaires" />
+
+    <!-- Twitter / X Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="BEST FOODS | Import-Export Agroalimentaire & Épices Dakar" />
+    <meta name="twitter:description" content="Négoce international d'épices, sucre, légumineuses et café au Sénégal. Port Autonome de Dakar." />
+    <meta name="twitter:image" content="/logo_bestfood_bf.png" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,700&family=Poppins:wght@400;500;600;700;800&family=Syne:wght@600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Schema.org JSON-LD Structured Data for Google Rich Snippets -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": ["Organization", "WholesaleStore"],
+          "@id": "https://bestfoods.sn/#organization",
+          "name": "BEST FOODS",
+          "alternateName": "BEST FOODS Agro Commodities & Spices",
+          "legalName": "BEST FOODS SARL",
+          "url": "https://bestfoods.sn/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bestfoods.sn/logo_bestfood_bf.png"
+          },
+          "image": "https://bestfoods.sn/logo_bestfood_bf.png",
+          "description": "Société de référence à Dakar pour le négoce international, le transit et l'exportation de denrées agroalimentaires brutes, d'épices d'origine certifiée, de sucres raffinés et de légumineuses.",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Hann Maristes 1, Lot 45",
+            "addressLocality": "Dakar",
+            "addressRegion": "Dakar",
+            "postalCode": "12500",
+            "addressCountry": "SN"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 14.7335,
+            "longitude": -17.4367
+          },
+          "telephone": "+221776220000",
+          "email": "contact@bestfoods.sn",
+          "priceRange": "$$",
+          "areaServed": [
+            { "@type": "Country", "name": "Senegal" },
+            { "@type": "Country", "name": "Mali" },
+            { "@type": "Country", "name": "Burkina Faso" },
+            { "@type": "Country", "name": "Ivory Coast" },
+            { "@type": "Country", "name": "Guinea" },
+            { "@type": "Country", "name": "France" },
+            { "@type": "Country", "name": "Morocco" },
+            { "@type": "Place", "name": "Worldwide Export" }
+          ],
+          "knowsAbout": [
+            "Agricultural commodities trading",
+            "Spices export",
+            "Maritime logistics Port of Dakar",
+            "Phytosanitary inspection and quality control"
+          ],
+          "sameAs": [
+            "https://wa.me/221776220000"
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://bestfoods.sn/#catalog",
+          "name": "Catalogue Export des Denrées & Épices Phares BEST FOODS",
+          "description": "Les 13 matières premières agroalimentaires et épices d'excellence expédiées depuis Dakar.",
+          "numberOfItems": 13,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Poivre Noir Entier (Piper nigrum)",
+              "description": "Poivre noir séché haute densité 550g/l - 570g/l, certifié pur sans impuretés."
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Piment Rouge Sec Extra Piquant (Capsicum annuum)",
+              "description": "Gousses de piment rouge séchées au soleil, piquant élevé et coloration naturelle vive."
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Clous de Girofle (Syzygium aromaticum)",
+              "description": "Boutons floraux cueillis à la main, teneur en huile essentielle et arôme puissant."
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Gingembre Sec Entier & Tranches (Zingiber officinale)",
+              "description": "Rizhomes séchés au soleil, arôme piquant naturel, triés et calibrés."
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Curcuma Doigts Poli (Curcuma longa)",
+              "description": "Curcuma sec à haute concentration en curcumine, poli machine."
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Graines de Sésame Blanc Naturel (Sesamum indicum)",
+              "description": "Pureté 99.5%, teneur minimale en huile 50%, qualité export."
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Sucre Blanc Raffiné ICUMSA 45",
+              "description": "Sucre cristallisé de canne raffiné de qualité supérieure conforme aux normes internationales."
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Riz Brisé Parfumé 100% Brisure",
+              "description": "Riz blanc brisé importé et calibré, sélectionné pour les marchés d'Afrique de l'Ouest."
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Lentilles Vertes & Corail (Lens culinaris)",
+              "description": "Légumineuses riches en protéines, triées optiquement, sans corps étrangers."
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Pois Chiches & Haricots Blancs Secs",
+              "description": "Grains secs calibrés pour grossistes et industriels de l'agroalimentaire."
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Café Robusta Vert en Grains (Coffea canephora)",
+              "description": "Grains de café vert brut non torréfiés, Grade 1 & 2 d'Afrique de l'Ouest."
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "Noix de Cajou / Anacarde Brute (Anacardium occidentale)",
+              "description": "Noix de cajou brutes en coque (RCN) à haut rendement KOR."
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "Pulpe de Tamarin Séchée (Tamarindus indica)",
+              "description": "Pain de pulpe de tamarin sans graines pour l'industrie des boissons et sauces."
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://bestfoods.sn/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Quels sont les principaux produits négociés par BEST FOODS à Dakar ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "BEST FOODS est spécialisée dans 13 denrées agroalimentaires et épices majeures : poivre noir entier, piments rouges séchés, clous de girofle, gingembre, curcuma, sésame blanc, sucre raffiné ICUMSA 45, riz brisé, lentilles, café Robusta vert, noix de cajou et tamarin."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Comment obtenir une cotation ou un devis FOB / CIF rapide ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Vous pouvez soumettre une demande de cotation (RFQ) directement sur notre site web via le bouton 'Demande Devis', par message WhatsApp au +221 77 622 00 00 ou auprès de nos directeurs commerciaux."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quels sont les contrôles qualité et certifications appliqués ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Chaque lot exporté est soumis à un contrôle rigoureux du taux d'humidité, à un tri mécanique/optique et à des analyses phytosanitaires officielles conformes aux exigences douanières et internationales (SGS, Bureau Veritas sur demande)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Où se situe le port d'embarquement principal ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Toutes les expéditions maritimes s'opèrent depuis le Port Autonome de Dakar (PAD), offrant une connectivité maritime rapide vers l'Afrique subsaharienne, l'Europe, l'Asie et les Amériques."
+              }
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+  </head>
+  <body class="bg-neutral-50 text-neutral-900 font-sans antialiased selection:bg-amber-600 selection:text-white">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
 
