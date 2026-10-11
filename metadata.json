@@ -1,0 +1,6 @@
+{
+  "name": "BEST FOODS - Agro Commodities & Spices Trading",
+  "description": "BEST FOODS is a leading importer and exporter of agricultural commodities, spices, sugar, pulses, and coffee based in Hann Maristes, Dakar, Senegal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

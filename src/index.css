@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Montserrat', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  body {
+    font-family: 'Inter', 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6, .font-heading {
+    font-family: 'Montserrat', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    letter-spacing: -0.02em;
+  }
+}
+
+/* Dynamic font options */
+[data-font="montserrat"] {
+  font-family: 'Inter', 'Montserrat', sans-serif;
+}
+[data-font="montserrat"] h1, 
+[data-font="montserrat"] h2, 
+[data-font="montserrat"] h3, 
+[data-font="montserrat"] h4, 
+[data-font="montserrat"] h5,
+[data-font="montserrat"] h6,
+[data-font="montserrat"] .font-heading {
+  font-family: 'Montserrat', sans-serif;
+}
+
+[data-font="poppins"],
+[data-font="poppins"] body,
+[data-font="poppins"] p,
+[data-font="poppins"] span,
+[data-font="poppins"] button {
+  font-family: 'Poppins', sans-serif;
+}
+[data-font="poppins"] h1, 
+[data-font="poppins"] h2, 
+[data-font="poppins"] h3, 
+[data-font="poppins"] h4, 
+[data-font="poppins"] h5,
+[data-font="poppins"] h6,
+[data-font="poppins"] .font-heading {
+  font-family: 'Poppins', sans-serif;
+}
+
+[data-font="syne"] {
+  font-family: 'Inter', sans-serif;
+}
+[data-font="syne"] h1, 
+[data-font="syne"] h2, 
+[data-font="syne"] h3, 
+[data-font="syne"] h4, 
+[data-font="syne"] h5,
+[data-font="syne"] h6,
+[data-font="syne"] .font-heading {
+  font-family: 'Syne', sans-serif;
+}
+
+[data-font="inter"],
+[data-font="inter"] body,
+[data-font="inter"] p,
+[data-font="inter"] span,
+[data-font="inter"] button,
+[data-font="inter"] h1, 
+[data-font="inter"] h2, 
+[data-font="inter"] h3, 
+[data-font="inter"] h4, 
+[data-font="inter"] h5,
+[data-font="inter"] h6,
+[data-font="inter"] .font-heading {
+  font-family: 'Inter', sans-serif;
+}
